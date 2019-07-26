@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a href="{{ site.baseurl | prepend: site.url }}/">
+    <a href="https://ml-retrospectives.github.io">
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
         <strong>{{ name | first }}</strong> {{ name | last }}
@@ -24,7 +24,7 @@
       <div class="trigger">
         <!-- Pages -->
         {% for page in site.pages %}
-          {% if page.title and page.url != "/" %}
+          {% if page.title %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
