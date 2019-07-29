@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: retrospective
 title:  A Quick Template for Writing Retrospectives
 date:   2099-01-01 16:40:16
 original_paper: An investigation into general relativity
