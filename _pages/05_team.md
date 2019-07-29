@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /team/
-title: Team
+permalink: /organizers/
+title: Organizers
 ---
 
 * [Ryan Lowe](https://www.cs.mcgill.ca/~rlowe1/), Mila / McGill University
