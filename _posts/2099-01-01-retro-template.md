@@ -2,13 +2,11 @@
 layout: post
 title:  A Quick Template for Writing Retrospectives
 date:   2099-01-01 16:40:16
+original_paper: An investigation into general relativity
+original_paper_link: https://arxiv.org/abs/1804.06768
+original_paper_authors: Alfred Einstein, Mary Curry
+retrospective_author: Alfred Einstein
 ---
-
-## Retrospective for: [*"A Quick Template for Writing Retrospectives"*](https://ml-retrospectives.github.io/retrospectives/accepted_retrospectives/2099/retro-template/)
-Paper written by: Alfred Einstein, Mary Curry.
-
-Retrospective written by: Alfred Einstein.
-
 
 ### Paper TL;DR
 
