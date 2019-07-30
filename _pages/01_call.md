@@ -12,7 +12,7 @@ The goal of the **Retrospectives Track** is to encourage researchers to self-ref
 
 If you have a paper where, looking back, you think *"huh, there's a lot more I could say about that now"* ---  either you realized that your methodology was slightly flawed, or there's some results that took many tricks to work that you didn't fully specify, or there's new work that changes your intuition, or something else --- then consider writing a retrospective! We think it’s important for this knowledge to be out in the open; when a paper doesn’t accurately reflect the authors’ opinion about their work, other researchers may misunderstand the significance of the idea, or waste time building off of shaky results. 
 
-If you’re unsure about what a retrospective might look like, see [this explanation](https://ml-retrospectives.github.io/how/) of how they work, or some previous examples [here](https://ml-retrospectives.github.io/published_retrospectives/index.html). 
+If you’re unsure about what a retrospective might look like, see [this explanation](https://ml-retrospectives.github.io/how/) of what they could include, or some previous examples [here](https://ml-retrospectives.github.io/published_retrospectives/index.html). 
 
 #### How to submit
 
