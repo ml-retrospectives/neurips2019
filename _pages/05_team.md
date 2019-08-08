@@ -8,6 +8,7 @@ title: Organizers
 * [Koustuv Sinha](https://www.cs.mcgill.ca/~ksinha4/), Mila / McGill University / Facebook AI
 * [Abhishek Gupta](https://atg-abhishek.github.io/), Microsoft and Montreal AI Ethics Institute
 * [Jessica Forde](https://github.com/jzf2101), Facebook AI
+* [Xavier Bouthillier](https://mila.quebec/en/person/xavier-bouthillier/), Mila
 * [Peter Henderson](https://www.peterhenderson.co/), Stanford University
 * [Michela Paganini](https://mickypaganini.github.io/), Facebook AI
 * [Shaghun Sodhani](https://shagunsodhani.in/), Mila
