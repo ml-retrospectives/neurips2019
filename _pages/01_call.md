@@ -50,7 +50,7 @@ There are many kinds of meta-analysis papers.  Here are a few examples:
 
 #### How to submit
 
-For submissions to this track, we will provide a link to OpenReview. Note that this is only for submissions to the Meta-Analysis Track --- retrospectives submitted on OpenReview will not be considered. 
+For submissions to this track, we will provide a link to OpenReview. 
 
 #### Reviewing criteria
 

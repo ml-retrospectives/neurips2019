@@ -4,7 +4,7 @@ permalink: /dates/
 title: Important Dates
 ---
 
-**Paper submission deadline:** September 13, 2019
+**Paper submission deadline:** September 15, 2019
 
 **Author notification:**   October 1, 2019
 
