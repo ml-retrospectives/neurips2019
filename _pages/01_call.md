@@ -50,7 +50,7 @@ There are many kinds of meta-analysis papers.  Here are a few examples:
 
 #### How to submit
 
-For submissions to this track, we will provide a link to OpenReview. 
+For submissions to this track, submit through our [OpenReview workshop portal](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Retrospectives). 
 
 #### Reviewing criteria
 
