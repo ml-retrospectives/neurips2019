@@ -16,7 +16,7 @@ If you’re unsure about what a retrospective might look like, see [this explana
 
 #### How to submit
 
-NeurIPS workshop submissions to the Retrospectives Track will be handled through the [ML Retrospectives site](https://ml-retrospectives.github.io/). The site gives [instructions](https://ml-retrospectives.github.io/how/) on how to upload a retrospective (by making a pull request to [our GitHub repository](https://github.com/ml-retrospectives/ml-retrospectives.github.io)), and there’ll be an option to click if you want your retrospective to be reviewed for possible inclusion in the NeurIPS Retrospectives workshop. All retrospectives are written in Markdown --- you can view a template [here](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2099/retro-template/). 
+NeurIPS workshop submissions to the Retrospectives Track will be handled through the [ML Retrospectives site](https://ml-retrospectives.github.io/). The site gives [instructions](https://ml-retrospectives.github.io/how/) on how to upload a retrospective (by [creating a submission issue in our GitHub repository](https://github.com/ml-retrospectives/ml-retrospectives.github.io/issues/new/choose)), and there’ll be a label you can mark if you want your retrospective to be reviewed for possible inclusion in the NeurIPS Retrospectives workshop. All retrospectives are written in Markdown --- you can view a template [here](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2099/retro-template/). 
 
 #### Reviewing criteria
 
