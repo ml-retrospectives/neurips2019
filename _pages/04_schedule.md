@@ -26,20 +26,27 @@ The following is a final schedule for the workshop.
 | Closing remarks                    | 17:40-17:45 |
 
 
+## Meta-analyses
+
+All Meta-analyses are for 10 minutes.
+
+- Smarter prototyping for neural learning (Prabhu Pradhan)
+- Advances in deep learning for skin cancer detection (Andre Pacheco)
+- Unsupervised minimax (Juergen Schmidhuber)
+
 ## Lightning Talks
 
-All Lightning Talks are for 5 minutes only.
+All Lightning Talks are for 5 minutes.
 
 - An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution (Rosanne Liu) 
 - Learning the structure of deep sparse graphical models (Zoubhin Gharamani)
 - Lessons Learned from The Lottery Ticket Hypothesis (Jonathan Frankle)
 - FiLM: Visual Reasoning with a General Conditioning Layer (Ethan Perez)
 - Deep Ptych: Subsampled Fourier Ptychography via Generative Priors (Farhad Shamstad)
-- Markov games that people play (Michael Littman)
 - Deep Reinforcement Learning That Matters (Riashat Islam)
-- Smarter prototyping for neural learning (Prabhu Pradhan)
-- Advances in deep learning for skin cancer detection (Andre Pacheco)
-- Unsupervised minimax (Juergen Schmidhuber)
+
+
+
 
 
 
