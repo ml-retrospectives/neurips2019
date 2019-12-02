@@ -13,10 +13,10 @@ The following is a final schedule for the workshop.
 | Invited Talk - [Zach Lipton](http://zacklipton.com/)         | 9:50-10:10  |
 | Meta-analyses                      | 10:10-10:40 |
 | Coffee-break                       | 10:40-10:55 |
-| Invited Talk - [Emily Denton](https://cs.nyu.edu/~denton/)        | 10:55-11:15 |
+| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 10:55-11:15 |
 | Panel                              | 11:15-12:15 |
 | Lunch                              | 12:15-13:45 |
-| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 13:45-14:05 |
+| Invited Talk - [Emily Denton](https://cs.nyu.edu/~denton/) | 13:45-14:05 |
 | Invited Talk - [Percy Liang](https://cs.stanford.edu/~pliang/)         | 14:05-14:25 |
 | Retrospective Lightning Talks      | 14:25-15:00 |
 | Coffee+posters                     | 15:00-16:00 |
@@ -26,20 +26,27 @@ The following is a final schedule for the workshop.
 | Closing remarks                    | 17:40-17:45 |
 
 
-## Lightning Talks
+## Meta-analyses
 
-All Lightning Talks are for 5 minutes only.
+All Meta-analyses are for 10 minutes.
+
+- [Smarter prototyping for neural learning](../assets/pdfs/RetroNeurIPS_Prabhu_final.pdf) (Prabhu Pradhan)
+- [Advances in deep learning for skin cancer](../assets/pdfs/) detection (Andre Pacheco)
+- [Unsupervised minimax](https://arxiv.org/abs/1906.04493) (Juergen Schmidhuber)
+
+## Retrospective Lightning Talks
+
+All Lightning Talks are for 5 minutes.
 
 - An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution (Rosanne Liu) 
 - Learning the structure of deep sparse graphical models (Zoubhin Gharamani)
 - Lessons Learned from The Lottery Ticket Hypothesis (Jonathan Frankle)
 - FiLM: Visual Reasoning with a General Conditioning Layer (Ethan Perez)
 - Deep Ptych: Subsampled Fourier Ptychography via Generative Priors (Farhad Shamstad)
-- Markov games that people play (Michael Littman)
 - Deep Reinforcement Learning That Matters (Riashat Islam)
-- Smarter prototyping for neural learning (Prabhu Pradhan)
-- Advances in deep learning for skin cancer detection (Andre Pacheco)
-- Unsupervised minimax (Juergen Schmidhuber)
+
+
+
 
 
 
