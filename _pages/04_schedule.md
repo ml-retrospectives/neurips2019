@@ -13,10 +13,10 @@ The following is a final schedule for the workshop.
 | Invited Talk - [Zach Lipton](http://zacklipton.com/)         | 9:50-10:10  |
 | Meta-analyses                      | 10:10-10:40 |
 | Coffee-break                       | 10:40-10:55 |
-| Invited Talk - [Emily Denton](https://cs.nyu.edu/~denton/)        | 10:55-11:15 |
+| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 10:55-11:15 |
 | Panel                              | 11:15-12:15 |
 | Lunch                              | 12:15-13:45 |
-| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 13:45-14:05 |
+| Invited Talk - [Emily Denton](https://cs.nyu.edu/~denton/) | 13:45-14:05 |
 | Invited Talk - [Percy Liang](https://cs.stanford.edu/~pliang/)         | 14:05-14:25 |
 | Retrospective Lightning Talks      | 14:25-15:00 |
 | Coffee+posters                     | 15:00-16:00 |
