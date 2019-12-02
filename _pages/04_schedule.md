@@ -34,7 +34,7 @@ All Meta-analyses are for 10 minutes.
 - Advances in deep learning for skin cancer detection (Andre Pacheco)
 - Unsupervised minimax (Juergen Schmidhuber)
 
-## Lightning Talks
+## Retrospective Lightning Talks
 
 All Lightning Talks are for 5 minutes.
 
