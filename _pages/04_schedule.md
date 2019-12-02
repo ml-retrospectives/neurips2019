@@ -30,9 +30,9 @@ The following is a final schedule for the workshop.
 
 All Meta-analyses are for 10 minutes.
 
-- Smarter prototyping for neural learning (Prabhu Pradhan)
-- Advances in deep learning for skin cancer detection (Andre Pacheco)
-- Unsupervised minimax (Juergen Schmidhuber)
+- [Smarter prototyping for neural learning](../assets/pdfs/RetroNeurIPS_Prabhu_final.pdf) (Prabhu Pradhan)
+- [Advances in deep learning for skin cancer](../assets/pdfs/) detection (Andre Pacheco)
+- [Unsupervised minimax](https://arxiv.org/abs/1906.04493) (Juergen Schmidhuber)
 
 ## Retrospective Lightning Talks
 
