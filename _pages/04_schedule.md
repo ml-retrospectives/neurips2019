@@ -5,35 +5,42 @@ title: Schedule
 ---
 
 
-The following is a tentative schedule for the workshop. 
+The following is a final schedule for the workshop. 
 
-* 9 - 915: Opening remarks / introduction of retrospectives
-* 915 - 935: Invited talk #1
-* 935 - 955: Invited talk #2
-* 955 - 1015: Invited talk #3
-* 1015 - 1030: Coffee break + poster set-up
-* 1030 - 1050: Invited talk #4
-* 1050 - 12: Panel discussing how to increase transparency and dissemination of ‘soft knowledge’ in ML
-* 12 - 130: Lunch break
-* 130 - 150: Invited talk # 5     
-* 150-240: Lightning contributed talks (5-10 mins)
-    * 150 - 155: 
-Retrospective: An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution (Rosanne Liu) 
-    * 155 - 200: Retrospective: Learning the structure of deep sparse graphical models (Zoubhin Gharamani)
-    * 200 - 205: Retrospective: Lessons Learned from The Lottery Ticket Hypothesis (Jonathan Frankle)
-    * 205 - 210: 
-Retrospective: FiLM: Visual Reasoning with a General Conditioning Layer (Ethan Perez)
-    * 210 - 215: Retrospective: Deep Ptych: Subsampled Fourier Ptychography via Generative Priors (Farhad Shamstad)
-    * 215 - 220: Retrospective: Markov games that people play (Michael Littman)
-    * 220 - 225: Retrospective; Deep Reinforcement Learning That Matters (Riashat Islam)
-    * 225 - 230: Smarter prototyping for neural learning (Prabhu Pradhan)
-    * 230 - 235: Advances in deep learning for skin cancer detection (Andre Pacheco)
-    * 235 - 240: Unsupervised minimax (Juergen Schmidhuber)
-* 240-3: Coffee break + posters
-* 3 - 410: Posters continued
-* 410 - 430: Invited talk #6
-* 430 - 530: Meetup-style brainstorming session (details below)
-* 530: End of workshop, closing remarks
+| Opening Remarks                    | 9:00-9:10   |
+| Invited Talk - [Leon Bottou](https://leon.bottou.org/)         | 9:10-9:30   |
+| Invited Talk - [Melanie Mitchell](https://www.santafe.edu/people/profile/melanie-mitchell)    | 9:30-9:50   |
+| Invited Talk - [Zach Lipton](http://zacklipton.com/)         | 9:50-10:10  |
+| Meta-analyses                      | 10:10-10:40 |
+| Coffee-break                       | 10:40-10:55 |
+| Invited Talk - [Emily Denton](https://cs.nyu.edu/~denton/)        | 10:55-11:15 |
+| Panel                              | 11:15-12:15 |
+| Lunch                              | 12:15-13:45 |
+| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 13:45-14:05 |
+| Invited Talk - [Percy Liang](https://cs.stanford.edu/~pliang/)         | 14:05-14:25 |
+| Retrospective Lightning Talks      | 14:25-15:00 |
+| Coffee+posters                     | 15:00-16:00 |
+| Invited Talk - [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/)      | 16:00-16:20 |
+| Invited Talk - [Michael Littman](http://cs.brown.edu/~mlittman/)     | 16:20-16:40 |
+| Meetup-style brainstorming session | 16:40-17:40 |
+| Closing remarks                    | 17:40-17:45 |
+
+
+## Lightning Talks
+
+All Lightning Talks are for 5 minutes only.
+
+- An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution (Rosanne Liu) 
+- Learning the structure of deep sparse graphical models (Zoubhin Gharamani)
+- Lessons Learned from The Lottery Ticket Hypothesis (Jonathan Frankle)
+- FiLM: Visual Reasoning with a General Conditioning Layer (Ethan Perez)
+- Deep Ptych: Subsampled Fourier Ptychography via Generative Priors (Farhad Shamstad)
+- Markov games that people play (Michael Littman)
+- Deep Reinforcement Learning That Matters (Riashat Islam)
+- Smarter prototyping for neural learning (Prabhu Pradhan)
+- Advances in deep learning for skin cancer detection (Andre Pacheco)
+- Unsupervised minimax (Juergen Schmidhuber)
+
 
 
 ### Description of the “Meetup-style” session at the workshop:
