@@ -21,10 +21,10 @@ We are accompanying the workshop with the open-source release of a retrospective
 ### Speakers
 
 <table style="width:100%">
-  <th>
+  <tr>
     <td style="text-align:center"><img src="https://www.cifar.ca/images/default-source/bios/bottou_bw.jpg?sfvrsn=47aa5ba2_2" height="300"></td>
     <td style="text-align:center"><img src="https://melaniemitchell.me/mm.jpg" height="300"></td>
-    <td style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Zachary_Lipton.jpg" height="300"></td>
+    <td style="text-align:center"><img src="https://www.cmu.edu/tepper/facultyphotos/large/zlipton-min.jpg" height="300"></td>
     <td style="text-align:center"><img src="https://cs.nyu.edu/~denton/me.jpg" height="300"></td>
   </tr>
   <tr>
@@ -48,9 +48,6 @@ We are accompanying the workshop with the open-source release of a retrospective
 </table>
 
 
-Leon Bottou
-
-Facebook AI
 
 ### How do I submit?
 
