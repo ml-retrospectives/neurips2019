@@ -22,10 +22,10 @@ We are accompanying the workshop with the open-source release of a retrospective
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="https://www.cifar.ca/images/default-source/bios/bottou_bw.jpg?sfvrsn=47aa5ba2_2" height="300"></td>
-    <td style="text-align:center"><img src="https://melaniemitchell.me/mm.jpg" height="300"></td>
-    <td style="text-align:center"><img src="https://www.cmu.edu/tepper/facultyphotos/large/zlipton-min.jpg" height="300"></td>
-    <td style="text-align:center"><img src="https://cs.nyu.edu/~denton/me.jpg" height="300"></td>
+    <td style="text-align:center"><img src="https://www.cifar.ca/images/default-source/bios/bottou_bw.jpg?sfvrsn=47aa5ba2_2" height="200"></td>
+    <td style="text-align:center"><img src="https://melaniemitchell.me/mm.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://www.cmu.edu/tepper/facultyphotos/large/zlipton-min.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://cs.nyu.edu/~denton/me.jpg" height="200"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://leon.bottou.org/">Leon Bottou</a> <br> Facebook AI</td>
@@ -34,10 +34,10 @@ We are accompanying the workshop with the open-source release of a retrospective
     <td style="text-align:center"><a href="https://cs.nyu.edu/~denton/">Emily Denton</a> <br> Google</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="https://i0.wp.com/veronikach.com/wp-content/uploads/2019/01/Cheplygina_Veronika.jpg?resize=768%2C960&ssl=1" height="300"></td>
-    <td style="text-align:center"><img src="https://cs.stanford.edu/~pliang/resources/percy2.jpeg" height="300"></td>
-    <td style="text-align:center"><img src="http://www.cs.toronto.edu/~duvenaud/pictures/me/david-duvenaud-headshot.jpg" height="300"></td>
-    <td style="text-align:center"><img src="https://vivo.brown.edu/profile-images/133/30/mlittman.jpg" height="300"></td>
+    <td style="text-align:center"><img src="https://i0.wp.com/veronikach.com/wp-content/uploads/2019/01/Cheplygina_Veronika.jpg?resize=768%2C960&ssl=1" height="200"></td>
+    <td style="text-align:center"><img src="https://cs.stanford.edu/~pliang/resources/percy2.jpeg" height="200"></td>
+    <td style="text-align:center"><img src="http://www.cs.toronto.edu/~duvenaud/pictures/me/david-duvenaud-headshot.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://vivo.brown.edu/profile-images/133/30/mlittman.jpg" height="200"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://veronikach.com/">Veronika Cheplygina</a> <br> Eindhoven University of Technology</td>
