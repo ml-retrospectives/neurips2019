@@ -20,7 +20,7 @@ We are accompanying the workshop with the open-source release of a retrospective
 
 ### Speakers
 
-<table style="width:100%">
+<table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="https://www.cifar.ca/images/default-source/bios/bottou_bw.jpg?sfvrsn=47aa5ba2_2" height="300"></td>
     <td style="text-align:center"><img src="https://melaniemitchell.me/mm.jpg" height="300"></td>
