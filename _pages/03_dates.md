@@ -8,5 +8,5 @@ title: Important Dates
 
 **Author notification:**   October 1, 2019
 
-**Workshop date:** December 13/14, 2019
+**Workshop date:** December 13 (Friday), 2019
 
