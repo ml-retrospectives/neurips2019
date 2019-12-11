@@ -11,7 +11,7 @@ title: Organizers
 * [Xavier Bouthillier](https://mila.quebec/en/person/xavier-bouthillier/), Mila
 * [Peter Henderson](https://www.peterhenderson.co/), Stanford University
 * [Michela Paganini](https://mickypaganini.github.io/), Facebook AI
-* [Shaghun Sodhani](https://shagunsodhani.com/), Mila
+* [Shagun Sodhani](https://shagunsodhani.com/), Mila
 * [Kanika Madan](), Mila
 * [Joel Lehman](http://joellehman.com/), Uber AI
 * [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Mila / McGill University / Facebook AI
