@@ -39,7 +39,7 @@ All Meta-analyses are for 10 minutes.
 All Lightning Talks are for 5 minutes.
 
 - [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/coordconv/) (Rosanne Liu) 
-- [Learning the structure of deep sparse graphical models](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/deep-sparse/) (Zoubhin Gharamani)
+- [Learning the structure of deep sparse graphical models](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/deep-sparse/) (Zoubin Ghahramani)
 - [Lessons Learned from The Lottery Ticket Hypothesis](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/lottery-ticket/) (Jonathan Frankle)
 - [FiLM: Visual Reasoning with a General Conditioning Layer](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/film/) (Ethan Perez)
 - [Deep Ptych: Subsampled Fourier Ptychography via Generative Priors](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/pytch/) (Farhad Shamstad)
