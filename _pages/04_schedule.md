@@ -33,6 +33,7 @@ All Meta-analyses are for 10 minutes.
 - [Smarter prototyping for neural learning](../assets/pdfs/RetroNeurIPS_Prabhu_final.pdf) (Prabhu Pradhan)
 - [Advances in deep learning applied to skin cancer detection](../assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf) (Andre Pacheco)
 - [Unsupervised minimax](https://arxiv.org/abs/1906.04493) (Juergen Schmidhuber)
+- [Conditional computation in neural networks for faster models](https://arxiv.org/abs/1511.06297) (Emmanuel Bengio)
 
 ## Retrospective Lightning Talks
 
