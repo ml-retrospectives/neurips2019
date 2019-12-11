@@ -4,8 +4,10 @@ permalink: /schedule/
 title: Schedule
 ---
 
-
-The following is a final schedule for the workshop. 
+# NeurIPS 2019 Retrospectives Workshop Schedule
+Friday, December 13 
+Vancouver Convention Centre
+West 114 + 115
 
 | Opening Remarks                    | 9:00-9:10   |
 | Invited Talk - [Leon Bottou](https://leon.bottou.org/)         | 9:10-9:30   |
