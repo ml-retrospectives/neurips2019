@@ -11,8 +11,8 @@ The following is a final schedule for the workshop.
 | Invited Talk - [Leon Bottou](https://leon.bottou.org/)         | 9:10-9:30   |
 | Invited Talk - [Melanie Mitchell](https://www.santafe.edu/people/profile/melanie-mitchell)    | 9:30-9:50   |
 | Invited Talk - [Zach Lipton](http://zacklipton.com/)         | 9:50-10:10  |
-| Meta-analyses                      | 10:10-10:40 |
-| Coffee-break                       | 10:40-10:55 |
+| Coffee-break                       | 10:10-10:25 |
+| Meta-analyses                      | 10:25-10:55 |
 | Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 10:55-11:15 |
 | Panel                              | 11:15-12:15 |
 | Lunch                              | 12:15-13:45 |
