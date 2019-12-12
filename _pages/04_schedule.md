@@ -4,8 +4,10 @@ permalink: /schedule/
 title: Schedule
 ---
 
-
-The following is a final schedule for the workshop. 
+# NeurIPS 2019 Retrospectives Workshop Schedule
+Friday, December 13 
+Vancouver Convention Centre
+West 114 + 115
 
 | Opening Remarks                    | 9:00-9:10   |
 | Invited Talk - [Leon Bottou](https://leon.bottou.org/)         | 9:10-9:30   |
@@ -46,6 +48,7 @@ All Lightning Talks are for 5 minutes.
 - [Deep Reinforcement Learning That Matters](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/deeprl-that-matters/) (Riashat Islam)
 - [DLPaper2Code: Auto-Generation of Code from Deep Learning Research Papers
 ](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/dlpaper2code/) (Anush Sankaran)
+- [Conditional computation in neural networks for faster models](https://arxiv.org/abs/1511.06297) (Emmanuel Bengio)
 
 
 
