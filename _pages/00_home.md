@@ -8,7 +8,7 @@ description: A venue for self-reflection in machine learning research
 
 The NeurIPS Retrospectives Workshop is about reflecting on machine learning research. In addition to publishing meta-analysis papers on the state of the field, this workshop will kick-start the exploration of a new kind of scientific publication, called *retrospectives*. 
 
-The workshop will be held **Friday, December 13th**, in Vancouver, Canada. 
+The workshop will be held **Friday, December 13th**, at the Vancouver Convention Centre (**West building, rooms 114-115**). 
 
 ### What is a retrospective?
 
