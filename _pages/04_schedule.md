@@ -27,6 +27,10 @@ West 114 + 115
 | Meetup-style brainstorming session | 16:40-17:40 |
 | Closing remarks                    | 17:40-17:45 |
 
+## Panel
+
+A discussion with [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), [Melanie Mitchell](https://www.santafe.edu/people/profile/melanie-mitchell), [Gael Varoquaux](http://gael-varoquaux.info/), and [Jonathan Frankle](http://www.jfrankle.com/).  
+
 
 ## Meta-analyses
 
