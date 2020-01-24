@@ -27,7 +27,7 @@ We are accompanying the workshop with the open-source release of a retrospective
     <td style="text-align:center"><img src="https://www.cifar.ca/images/default-source/bios/bottou_bw.jpg?sfvrsn=47aa5ba2_2" height="200"></td>
     <td style="text-align:center"><img src="https://melaniemitchell.me/mm.jpg" height="200"></td>
     <td style="text-align:center"><img src="https://www.cmu.edu/tepper/facultyphotos/large/zlipton-min.jpg" height="200"></td>
-    <td style="text-align:center"><img src="https://cs.nyu.edu/~denton/me.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://cs.nyu.edu/~denton/me.png" height="200"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://leon.bottou.org/">Leon Bottou</a> <br> Facebook AI</td>
