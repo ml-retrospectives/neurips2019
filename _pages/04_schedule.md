@@ -15,7 +15,7 @@ West 114 + 115
 | Invited Talk - [Zach Lipton](http://zacklipton.com/)         | 9:50-10:10 [Video (Talk 48:45, no Q&A)](https://slideslive.com/38921894/retrospectives-a-venue-for-selfreflection-in-ml-research-1) |
 | Coffee-break                       | 10:10-10:25 |
 | Meta-analyses                      | 10:25-10:55 | [Video (1:00)](https://slideslive.com/38921895/retrospectives-a-venue-for-selfreflection-in-ml-research-2) |
-| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 10:55-11:15 [Video (Talk 37:53, Q&A 51:46)](https://slideslive.com/38921895/retrospectives-a-venue-for-selfreflection-in-ml-research-2)|
+| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 10:55-11:15 [Video (Talk 37:53, Q&A 51:46)](https://slideslive.com/38923889/how-i-fall-in-writing-papers)|
 | Panel                              | 11:15-12:15 [Video (55:45)](https://slideslive.com/38921895/retrospectives-a-venue-for-selfreflection-in-ml-research-2) |
 | Lunch                              | 12:15-13:45 |
 | Invited Talk - [Emily Denton](https://cs.nyu.edu/~denton/) | 13:45-14:05  [Video (Talk 00:00, Q&A 20:10)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)|
