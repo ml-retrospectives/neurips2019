@@ -4,42 +4,58 @@ permalink: /schedule/
 title: Schedule
 ---
 
+# NeurIPS 2019 Retrospectives Workshop Schedule
+Friday, December 13 
+Vancouver Convention Centre
+West 114 + 115
 
-The following is a final schedule for the workshop. 
-
-| Opening Remarks                    | 9:00-9:10   |
-| Invited Talk - [Leon Bottou](https://leon.bottou.org/)         | 9:10-9:30   |
-| Invited Talk - [Melanie Mitchell](https://www.santafe.edu/people/profile/melanie-mitchell)    | 9:30-9:50   |
-| Invited Talk - [Zach Lipton](http://zacklipton.com/)         | 9:50-10:10  |
-| Meta-analyses                      | 10:10-10:40 |
-| Coffee-break                       | 10:40-10:55 |
-| Invited Talk - [Emily Denton](https://cs.nyu.edu/~denton/)        | 10:55-11:15 |
-| Panel                              | 11:15-12:15 |
+| Opening Remarks                    | 9:00-9:10 [Video (7:25)](https://slideslive.com/38921894/retrospectives-a-venue-for-selfreflection-in-ml-research-1)  |
+| Invited Talk - [Leon Bottou](https://leon.bottou.org/)         | 9:10-9:30 [Video (Talk 8:25, Q&A 25:45)](https://slideslive.com/38921894/retrospectives-a-venue-for-selfreflection-in-ml-research-1)  |
+| Invited Talk - [Melanie Mitchell](https://www.santafe.edu/people/profile/melanie-mitchell)    | 9:30-9:50 [Video (Talk 29:10, Q&A 45:05)](https://slideslive.com/38921894/retrospectives-a-venue-for-selfreflection-in-ml-research-1)  |
+| Invited Talk - [Zach Lipton](http://zacklipton.com/)         | 9:50-10:10 [Video (Talk 48:45, no Q&A)](https://slideslive.com/38921894/retrospectives-a-venue-for-selfreflection-in-ml-research-1) |
+| Coffee-break                       | 10:10-10:25 |
+| Meta-analyses                      | 10:25-10:55 | [Video (1:00)](https://slideslive.com/38921895/retrospectives-a-venue-for-selfreflection-in-ml-research-2) |
+| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 10:55-11:15 [Video (Talk 37:53, Q&A 51:46)](https://slideslive.com/38923889/how-i-fall-in-writing-papers)|
+| Panel                              | 11:15-12:15 [Video (55:45)](https://slideslive.com/38921895/retrospectives-a-venue-for-selfreflection-in-ml-research-2) |
 | Lunch                              | 12:15-13:45 |
-| Invited Talk - [Veronika Cheplygina](https://veronikach.com/) | 13:45-14:05 |
-| Invited Talk - [Percy Liang](https://cs.stanford.edu/~pliang/)         | 14:05-14:25 |
+| Invited Talk - [Emily Denton](https://cs.nyu.edu/~denton/) | 13:45-14:05  [Video (Talk 00:00, Q&A 20:10)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)|
+| Invited Talk - [Percy Liang](https://cs.stanford.edu/~pliang/)         | 14:05-14:25 [Video (Talk 23:08, Q&A 44:30)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)|
 | Retrospective Lightning Talks      | 14:25-15:00 |
 | Coffee+posters                     | 15:00-16:00 |
-| Invited Talk - [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/)      | 16:00-16:20 |
-| Invited Talk - [Michael Littman](http://cs.brown.edu/~mlittman/)     | 16:20-16:40 |
-| Meetup-style brainstorming session | 16:40-17:40 |
+| Invited Talk - [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/)      | 16:00-16:20 [Video (Talk 00:00, Q&A 18:05)](https://slideslive.com/38921897/retrospectives-a-venue-for-selfreflection-in-ml-research-4) |
+| Invited Talk - [Michael Littman](http://cs.brown.edu/~mlittman/)     | 16:20-16:40 [Video (Talk 22:07, Q&A 40:15)](https://slideslive.com/38921897/retrospectives-a-venue-for-selfreflection-in-ml-research-4)|
+| Meetup-style brainstorming session | 16:40-17:40 [Video (43:25)](https://slideslive.com/38921897/retrospectives-a-venue-for-selfreflection-in-ml-research-4)|
 | Closing remarks                    | 17:40-17:45 |
 
+## Panel
 
-## Lightning Talks
+A discussion with [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), [Melanie Mitchell](https://www.santafe.edu/people/profile/melanie-mitchell), [Gael Varoquaux](http://gael-varoquaux.info/), and [Jonathan Frankle](http://www.jfrankle.com/).  
 
-All Lightning Talks are for 5 minutes only.
 
-- An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution (Rosanne Liu) 
-- Learning the structure of deep sparse graphical models (Zoubhin Gharamani)
-- Lessons Learned from The Lottery Ticket Hypothesis (Jonathan Frankle)
-- FiLM: Visual Reasoning with a General Conditioning Layer (Ethan Perez)
-- Deep Ptych: Subsampled Fourier Ptychography via Generative Priors (Farhad Shamstad)
-- Markov games that people play (Michael Littman)
-- Deep Reinforcement Learning That Matters (Riashat Islam)
-- Smarter prototyping for neural learning (Prabhu Pradhan)
-- Advances in deep learning for skin cancer detection (Andre Pacheco)
-- Unsupervised minimax (Juergen Schmidhuber)
+## Meta-analyses
+
+All Meta-analyses are for 10 minutes.
+
+- [Smarter prototyping for neural learning](../assets/pdfs/RetroNeurIPS_Prabhu_final.pdf) (Prabhu Pradhan) [Video 14:25](https://slideslive.com/38921895/retrospectives-a-venue-for-selfreflection-in-ml-research-2)
+- [Advances in deep learning applied to skin cancer detection](../assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf) (Andre Pacheco) [Video 25:45](https://slideslive.com/38921895/retrospectives-a-venue-for-selfreflection-in-ml-research-2)
+- [Unsupervised minimax](https://arxiv.org/abs/1906.04493) (Juergen Schmidhuber) [Video 1:30](https://slideslive.com/38921895/retrospectives-a-venue-for-selfreflection-in-ml-research-2)
+
+## Retrospective Lightning Talks
+
+All Lightning Talks are for 5 minutes.
+
+- [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/coordconv/) (Rosanne Liu) [Video (47:00)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)
+- [Learning the structure of deep sparse graphical models](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/deep-sparse/) (Zoubin Ghahramani) [Video (53:00)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)
+- [Lessons Learned from The Lottery Ticket Hypothesis](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/lottery-ticket/) (Jonathan Frankle) [Video (1:00:33)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)
+- [FiLM: Visual Reasoning with a General Conditioning Layer](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/film/) (Ethan Perez) [Video (1:06:58)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)
+- [Deep Ptych: Subsampled Fourier Ptychography via Generative Priors](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/pytch/) (Farhad Shamstad)
+- [Deep Reinforcement Learning That Matters](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/deeprl-that-matters/) (Riashat Islam) 
+- [DLPaper2Code: Auto-Generation of Code from Deep Learning Research Papers
+](https://ml-retrospectives.github.io/neurips2019/accepted_retrospectives/2019/dlpaper2code/) (Anush Sankaran) [Video (1:13:30)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)
+- [Conditional computation in neural networks for faster models](https://arxiv.org/abs/1511.06297) (Emmanuel Bengio) [Video (1:19:19)](https://slideslive.com/38921896/retrospectives-a-venue-for-selfreflection-in-ml-research-3)
+
+
+
 
 
 

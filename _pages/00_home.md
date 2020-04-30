@@ -6,8 +6,9 @@ desc_title: Retrospectives Workshop @ NeurIPS 2019
 description: A venue for self-reflection in machine learning research
 ---
 
+The NeurIPS Retrospectives Workshop is about reflecting on machine learning research. In addition to publishing meta-analysis papers on the state of the field, this workshop will kick-start the exploration of a new kind of scientific publication, called *retrospectives*. 
 
-The NeurIPS Retrospectives Workshop is about reflecting on machine learning research. **In addition to publishing meta-analysis papers on the state of the field, this workshop will kick-start the exploration of a new kind of scientific publication, called *retrospectives*.** 
+The workshop will be held **Friday, December 13th**, at the Vancouver Convention Centre (**West building, rooms 114-115**). 
 
 ### What is a retrospective?
 
@@ -17,6 +18,38 @@ A retrospective is written about a single paper, by that paper's author, and tak
 
 The overarching goal of retrospectives is to do better science, increase the openness and accessibility of the machine learning field, and to show that **it’s okay to make mistakes**.
 We are accompanying the workshop with the open-source release of a retrospectives platform on GitHub called [ML Retrospectives](https://ml-retrospectives.github.io/), which will host retrospective submissions going forward after NeurIPS 2019. 
+
+
+### Speakers
+
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="https://www.cifar.ca/images/default-source/bios/bottou_bw.jpg?sfvrsn=47aa5ba2_2" height="200"></td>
+    <td style="text-align:center"><img src="https://melaniemitchell.me/mm.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://www.cmu.edu/tepper/facultyphotos/large/zlipton-min.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://cs.nyu.edu/~denton/me.png" height="200"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://leon.bottou.org/">Leon Bottou</a> <br> Facebook AI</td>
+    <td style="text-align:center"><a href="https://melaniemitchell.me/">Melanie Mitchell</a> <br> Portland State University</td>
+    <td style="text-align:center"><a href="http://zacklipton.com/">Zach Lipton</a> <br> CMU</td>
+    <td style="text-align:center"><a href="https://cs.nyu.edu/~denton/">Emily Denton</a> <br> Google</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="https://i0.wp.com/veronikach.com/wp-content/uploads/2019/01/Cheplygina_Veronika.jpg?resize=768%2C960&ssl=1" height="200"></td>
+    <td style="text-align:center"><img src="https://cs.stanford.edu/~pliang/resources/percy2.jpeg" height="200"></td>
+    <td style="text-align:center"><img src="http://www.cs.toronto.edu/~duvenaud/pictures/me/david-duvenaud-headshot.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://vivo.brown.edu/profile-images/133/30/mlittman.jpg" height="200"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://veronikach.com/">Veronika Cheplygina</a> <br> Eindhoven University of Technology</td>
+    <td style="text-align:center"><a href="https://cs.stanford.edu/~pliang/">Percy Liang</a> <br> Stanford University</td>
+    <td style="text-align:center"><a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a> <br> University of Toronto</td>
+    <td style="text-align:center"><a href="http://cs.brown.edu/~mlittman/">Michael Littman</a><br> Brown University</td>
+  </tr>
+</table>
+
+
 
 ### How do I submit?
 
